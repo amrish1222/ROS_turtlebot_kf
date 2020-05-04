@@ -3,6 +3,7 @@
 ## Overview
 Applying a EKF ROS package to TurtleBot and visualizing the output on Rviz and Rqt multiplot.
 
+![execution](https://github.com/amrish1222/ROS_turtlebot_kf/blob/master/results/execution.gif)
 ## Build Instructions
 
 **Catkin Workspace, cloning the repository **
